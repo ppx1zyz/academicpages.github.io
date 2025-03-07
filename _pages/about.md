@@ -55,9 +55,9 @@ Before joining UESTC, I achieved outstanding results in several national-level c
 - Passionate about promoting cutting-edge technologies in electronics and engaging in academic forums
 
 ## **Contact**
-- **Email**: your_email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourgithub)
-- **Google Scholar**: [Your Scholar Profile](https://scholar.google.com/)
+- **Email**: [zhengyuzhe1124@foxmail.com](zhengyuzhe1124@foxmail.com)
+- **GitHub**: [https://github.com/ppx1zyz](https://github.com/ppx1zyz)
+- **Google Scholar**: [None](https://scholar.google.com/)
 
 ---
 

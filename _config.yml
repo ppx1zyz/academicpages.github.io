@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "user_person.png"
   name             : "Yuzhe Zheng"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "hi/him"# example: "she/her"  
+  bio              : "Undergraduate student majoring in Electronic Science and Technology at UESTC."
   location         : "China"
-  employer         : "University of Electronic Science and Technology of China"
+  employer         : "UESTC"
   uri              : # URL
   email            : "zhengyuzhe1124@foxmail.com" 
 

@@ -9,7 +9,7 @@ redirect_from:
 # **About Me**
 I am a third-year undergraduate student majoring in **Electronic Science and Technology** at **University of Electronic Science and Technology of China (UESTC)**. My research interests lie in **terahertz pulse sources**, **micro/nano-scale electronic devices (MNPS)**, and **high-frequency circuit design**. I focus on exploring the physical mechanisms of novel materials and devices, integrating high-performance computing and simulation optimization to enhance device performance and applications.
 
-Before joining UESTC, I achieved outstanding results in several national-level competitions, such as the **National University Student Electronic Design Competition High-Tech Invitational (Second Prize)** and the **National University Student IC Innovation and Entrepreneurship Competition (Third Prize)**. Additionally, I actively participate in research projects, contribute to laboratory studies, and take on key research responsibilities to continually enhance my academic skills and innovation capabilities.
+At UESTC, I achieved outstanding results in several national-level competitions, such as the **National University Student Electronic Design Competition High-Tech Invitational (Second Prize)** and the **National University Student IC Innovation and Entrepreneurship Competition (Third Prize)**. Additionally, I actively participate in research projects, contribute to laboratory studies, and take on key research responsibilities to continually enhance my academic skills and innovation capabilities.
 
 # **Education**
 - **2022.09 - Present**  B.S. in **Electronic Science and Technology**, University of Electronic Science and Technology of China (UESTC)

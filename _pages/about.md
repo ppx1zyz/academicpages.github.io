@@ -30,7 +30,7 @@ At UESTC, I achieved outstanding results in several national-level competitions,
 - **Research**
   - **Lab Research Experience**:
     - Participated in research on **terahertz pulse sources** and **micro/nano electronic devices**
-    - Responsible for experimental data analysis, process optimization, and performance improvement
+    - Responsible for experimental data analysis, and performance improvement
     - Authored research reports and submitted papers to international conferences (IVEC)
   - **Paper Acceptance**:
     - Paper accepted at **IVEC** (International Vacuum Electronics Conference)

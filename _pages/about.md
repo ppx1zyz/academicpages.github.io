@@ -37,16 +37,21 @@ At UESTC, I achieved outstanding results in several national-level competitions,
 
 # **Technical Skills**
 - **Electronic Design & Simulation**:
-  - Proficient in **ADS, HFSS, LTspice** for circuit and electromagnetic simulation
-  - Skilled in **Cadence Virtuoso** for IC layout design
-  - Strong knowledge in **PCB design** and hardware debugging
-- **Programming & Data Processing**:
-  - Proficient in **Python, MATLAB** for data analysis and modeling
-  - Familiar with **C/C++** for embedded system development and high-performance computing
-- **Experimental Skills**:
-  - Hands-on experience in **RF circuit measurement, vector network analyzer operation**
-  - Familiar with **magnetic material characterization methods**, such as hysteresis loop measurement
-
+  - Proficient in **ADS, HFSS, LTspice** for circuit and electromagnetic simulation  
+  - Skilled in **Cadence Virtuoso** for IC layout design  
+  - Strong knowledge in **PCB design**, **switching power supply design**, and hardware debugging  
+- **Programming & Embedded Systems**:
+  - Proficient in **Python, MATLAB** for data analysis and modeling  
+  - Familiar with **C/C++** for embedded system development and high-performance computing  
+  - Experienced in **microcontroller (MCU) development** for real-time control and automation  
+- **Mechanical & CAD Design**:
+  - Proficient in **SolidWorks, AutoCAD** for mechanical design and simulation  
+  - Hands-on experience with **3D printing** for rapid prototyping and system integration  
+  - Experience in **mechanical arm control algorithms** and **drone system development**  
+- **Experimental & Testing Skills**:
+  - Hands-on experience in **RF circuit measurement, vector network analyzer operation**  
+  - Skilled in **hardware debugging** and **high-voltage pulse circuit design**
+ 
 # **Open-Source & Community Contribution**
 - Contributor to open-source hardware and simulation software projects
 - Active on **GitHub**, sharing learning resources and research tools
